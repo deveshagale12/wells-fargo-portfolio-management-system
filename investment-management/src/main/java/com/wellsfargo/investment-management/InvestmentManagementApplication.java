@@ -1,4 +1,4 @@
-javapackage com.wellsfargo.investmentmanagement;
+package com.wellsfargo.investmentmanagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
